@@ -46,60 +46,58 @@ Cochez les langages avec lesquels vous êtes à l'aise. Ajoutez-en au besoin.:
 Copier-coller votre objectif de carrière ici. 
 
 # Projet 1 
-Nom de votre projet:     
+Nom de votre projet: Pixar
 Mention académique ou personnel:     
-Réalisé dans le cadre du cours:        
-Individuel ou en équipe:     
-Nom de vos coéquipiers:      
-Votre ou vos rôle(s) dans le projet:     
-Logiciels ou techniques utilisées:    
-Catégorie du projet:      
-Description courte du projet (Résumé en 1 phrase):     
-Description du projet (Qu'est-ce que le prof vous a demandé de réaliser?) (2 phrases):     
-Description de votre projet (Qu'est-ce que vous avez fait?) (2 phrases):     
+Réalisé dans le cadre du cours: Animation 3D   
+Individuel ou en équipe: Individuel
+Votre ou vos rôle(s) dans le projet: Animateur et modélisateur  
+Logiciels ou techniques utilisées: Maya, Davinci Resolve 
+Catégorie du projet: Animation 3D    
+Description courte du projet (Résumé en 1 phrase):  
+Description du projet (Qu'est-ce que le prof vous a demandé de réaliser?) (2 phrases): Créer une imitation de l’animation de la lampe Pixar, dans la vidéo d’introduction de leurs films, en utilisant une ou des formes géométriques avec un rig simple pour imiter la lampe 
+Description de votre projet (Qu'est-ce que vous avez fait?) (2 phrases): J'ai modéliser le Bonbon principal ainsi que les lettres. J'ai aussi tout animer et rajouter la colorisation ainsi que la music. 
 Lien vers la documentation de votre projet (photos, vidéos, extraits sonores, ...):     
 
 # Projet 2 
-Nom de votre projet:     
-Mention académique ou personnel:     
-Réalisé dans le cadre du cours:        
-Individuel ou en équipe:     
-Nom de vos coéquipiers:      
-Votre ou vos rôle(s) dans le projet:     
-Logiciels ou techniques utilisées:    
-Catégorie du projet:      
+Nom de votre projet: Imparfaite  
+Mention académique ou personnel: Meilleur Vidéo de la classe et gagner le prix du coucour audio-visuelle 
+Réalisé dans le cadre du cours: Vidéo 2    
+Individuel ou en équipe: en équipe 
+Nom de vos coéquipiers: Nurlika Richard et Sarah Muller Francois
+Votre ou vos rôle(s) dans le projet: Actrice Monteuse Vidéo et Trame sonore
+Logiciels ou techniques utilisées: Davinci Resolve
+Catégorie du projet: Vidéo
 Description courte du projet (Résumé en 1 phrase):     
-Description du projet (Qu'est-ce que le prof vous a demandé de réaliser?) (2 phrases):     
-Description de votre projet (Qu'est-ce que vous avez fait?) (2 phrases):     
+Description du projet (Qu'est-ce que le prof vous a demandé de réaliser?) (2 phrases):  Créer une vidéo sur le corps humain où l’accumulation d’images exprime un sentiment ou raconte une histoire en 1 minute 30.
+Description de votre projet (Qu'est-ce que vous avez fait?) (2 phrases): J'ai trier les médias, j'ai fait le montage, la colorisation ainsi que le son    
 Lien vers la documentation de votre projet (photos, vidéos, extraits sonores, ...):     
 
 
 # Projet 3 
-Nom de votre projet:     
-Mention académique ou personnel:     
-Réalisé dans le cadre du cours:        
-Individuel ou en équipe:     
-Nom de vos coéquipiers:      
-Votre ou vos rôle(s) dans le projet:     
-Logiciels ou techniques utilisées:    
-Catégorie du projet:      
+Nom de votre projet: Un monde Inconnu 
+Mention académique ou personnel: 
+Réalisé dans le cadre du cours: Vidéo 1       
+Individuel ou en équipe: en équipe 
+Nom de vos coéquipiers: Nurlika Richard et Sarah Muller Francois   
+Votre ou vos rôle(s) dans le projet: Actrice Monteuse Vidéo et Trame sonore  
+Logiciels ou techniques utilisées: Davinci Resolve   
+Catégorie du projet: Vidéo     
 Description courte du projet (Résumé en 1 phrase):     
-Description du projet (Qu'est-ce que le prof vous a demandé de réaliser?) (2 phrases):     
-Description de votre projet (Qu'est-ce que vous avez fait?) (2 phrases):     
+Description du projet (Qu'est-ce que le prof vous a demandé de réaliser?) (2 phrases): Créer une vidéo de 1 minute style stop motion et l'accompagner avec un micro-montage
+Description de votre projet (Qu'est-ce que vous avez fait?) (2 phrases):   J'ai trier les médias, j'ai fait le montage, la colorisation ainsi que le micro-montage  
 Lien vers la documentation de votre projet (photos, vidéos, extraits sonores, ...):     
 
 # Projet 4
-Nom de votre projet:     
+Nom de votre projet: Monde a l'envers   
 Mention académique ou personnel:     
-Réalisé dans le cadre du cours:        
-Individuel ou en équipe:     
-Nom de vos coéquipiers:      
-Votre ou vos rôle(s) dans le projet:     
-Logiciels ou techniques utilisées:    
-Catégorie du projet:      
+Réalisé dans le cadre du cours: Animation 3D     
+Individuel ou en équipe: Indiviudel       
+Votre ou vos rôle(s) dans le projet: Animatrice et Monteuse    
+Logiciels ou techniques utilisées: Maya et Davinci Resolve   
+Catégorie du projet: Animation 3D
 Description courte du projet (Résumé en 1 phrase):     
-Description du projet (Qu'est-ce que le prof vous a demandé de réaliser?) (2 phrases):     
-Description de votre projet (Qu'est-ce que vous avez fait?) (2 phrases):     
+Description du projet (Qu'est-ce que le prof vous a demandé de réaliser?) (2 phrases): Réalisation d’un environnement 3D et de plusieurs séquences d’animation autour du même thème. 
+Description de votre projet (Qu'est-ce que vous avez fait?) (2 phrases): J'ai modéliser certaines choses, J'ai tout animer, j'ai fait le montage vidéo ainsi que la bande sonore    
 Lien vers la documentation de votre projet (photos, vidéos, extraits sonores, ...):     
 
 # Projet 5 (Optionnel)
