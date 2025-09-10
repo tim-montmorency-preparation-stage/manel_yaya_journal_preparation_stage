@@ -1,7 +1,7 @@
 # Identification
 Ton nom:     Manel Yaya
-Ta ville:     Laval
-Ton courriel:     manelyaya4@gmail.com
+Ta ville:  Laval
+Ton courriel: manelyaya4@gmail.com
 Lien vers ton portfolio:     
  
 # Objectif de carrière
@@ -93,15 +93,13 @@ Liste de quelques logiciels que tu maîtrise:
 * Photoshop
 * Davinci Resolve
 * Reaper
-* Touch Designer
-* Lightroom
-* Max
- 
+  
   
 # Loisirs ou intérêts
 Liste de tes loisirs ou intérêts en un mot:     
  
 * La littérature
+* 
 * 
 * 
 *
