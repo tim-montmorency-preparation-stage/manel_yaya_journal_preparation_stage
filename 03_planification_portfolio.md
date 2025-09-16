@@ -102,6 +102,11 @@ Lien vers la documentation de votre projet (photos, vidéos, extraits sonores, .
 Sélectionnez un de vos projets et insérez son processus de création. À l'aide d'images et de texte vous devez nous expliquer le processus de création étape par étape de votre projet. 
 # Processus de Imparfaite : 
 ![photo](moodboard.png)
+Un monde inconnu se dévoile dans une atmosphère chaleureuse et empreinte de curiosité. Ce projet vise à illustrer la découverte et l'aventure d'un personnage qui prend vie. L'esthétique de ce monde inconnu s'inspire du style d'animation caractéristique de films tels que Coraline, Fantastic Mr. Fox, et du court métrage Gruff, mais trouve surtout son inspiration dans le stop motion "Delivered" de Vincent René Lortie.
+
+
+
+Dans Un Monde Inconnu, tous les décors sont vintage. La palette de couleurs tourne autour de différentes nuances de rouges. Au niveau des décors, on utilise un style monochrome, que ce soit avec la lumière ou la décoration.
 
 
 
