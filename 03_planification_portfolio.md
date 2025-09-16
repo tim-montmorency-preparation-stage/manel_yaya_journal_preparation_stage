@@ -98,38 +98,10 @@ Description courte du projet (Résumé en 1 phrase): Ce projet représente un mo
 Description du projet (Qu'est-ce que le prof vous a demandé de réaliser?) (2 phrases): Réalisation d’un environnement 3D et de plusieurs séquences d’animation autour du même thème. 
 Description de votre projet (Qu'est-ce que vous avez fait?) (2 phrases): J'ai modéliser certaines choses, J'ai tout animer, j'ai fait le montage vidéo ainsi que la bande sonore    
 Lien vers la documentation de votre projet (photos, vidéos, extraits sonores, ...):     
-
-# Projet 5 (Optionnel)
-Nom de votre projet:     
-Mention académique ou personnel:     
-Réalisé dans le cadre du cours:        
-Individuel ou en équipe:     
-Nom de vos coéquipiers:      
-Votre ou vos rôle(s) dans le projet:     
-Logiciels ou techniques utilisées:    
-Catégorie du projet:      
-Description courte du projet (Résumé en 1 phrase):     
-Description du projet (Qu'est-ce que le prof vous a demandé de réaliser?) (2 phrases):     
-Description de votre projet (Qu'est-ce que vous avez fait?) (2 phrases):     
-Lien vers la documentation de votre projet (photos, vidéos, extraits sonores, ...):     
-
-# Projet 6 (Optionnel)
-Nom de votre projet:     
-Mention académique ou personnel:     
-Réalisé dans le cadre du cours:        
-Individuel ou en équipe:     
-Nom de vos coéquipiers:      
-Votre ou vos rôle(s) dans le projet:     
-Logiciels ou techniques utilisées:    
-Catégorie du projet:      
-Description courte du projet (Résumé en 1 phrase):     
-Description du projet (Qu'est-ce que le prof vous a demandé de réaliser?) (2 phrases):     
-Description de votre projet (Qu'est-ce que vous avez fait?) (2 phrases):     
-Lien vers la documentation de votre projet (photos, vidéos, extraits sonores, ...):     
-
-
-# Processus de création
+ 
 Sélectionnez un de vos projets et insérez son processus de création. À l'aide d'images et de texte vous devez nous expliquer le processus de création étape par étape de votre projet. 
+# Processus de Imparfaite :
+
 
 
 
