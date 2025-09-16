@@ -66,7 +66,7 @@ Nom de vos coéquipiers: Nurlika Richard et Sarah Muller Francois
 Votre ou vos rôle(s) dans le projet: Actrice Monteuse Vidéo et Trame sonore
 Logiciels ou techniques utilisées: Davinci Resolve
 Catégorie du projet: Vidéo
-Description courte du projet (Résumé en 1 phrase): Ce projet a pour but de raconter l'histoire d'une jeune fille mal a laise dans sa peau gra
+Description courte du projet (Résumé en 1 phrase): Ce projet a pour but de raconter l'histoire d'une jeune fille mal à l'aise dans sa peau grâce à une lentille micro.
 Description du projet (Qu'est-ce que le prof vous a demandé de réaliser?) (2 phrases):  Créer une vidéo sur le corps humain où l’accumulation d’images exprime un sentiment ou raconte une histoire en 1 minute 30.
 Description de votre projet (Qu'est-ce que vous avez fait?) (2 phrases): J'ai trier les médias, j'ai fait le montage, la colorisation ainsi que le son    
 Lien vers la documentation de votre projet (photos, vidéos, extraits sonores, ...):     
