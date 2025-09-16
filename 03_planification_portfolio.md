@@ -94,7 +94,7 @@ Individuel ou en équipe: Indiviudel
 Votre ou vos rôle(s) dans le projet: Animatrice et Monteuse    
 Logiciels ou techniques utilisées: Maya et Davinci Resolve   
 Catégorie du projet: Animation 3D
-Description courte du projet (Résumé en 1 phrase):     
+Description courte du projet (Résumé en 1 phrase): Ce projet représente un monde parallèle, un monde causé par une drogue psychédélique, une distorsion de la réalité
 Description du projet (Qu'est-ce que le prof vous a demandé de réaliser?) (2 phrases): Réalisation d’un environnement 3D et de plusieurs séquences d’animation autour du même thème. 
 Description de votre projet (Qu'est-ce que vous avez fait?) (2 phrases): J'ai modéliser certaines choses, J'ai tout animer, j'ai fait le montage vidéo ainsi que la bande sonore    
 Lien vers la documentation de votre projet (photos, vidéos, extraits sonores, ...):     
