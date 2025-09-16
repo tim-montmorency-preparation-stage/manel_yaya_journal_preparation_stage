@@ -46,28 +46,27 @@ Cochez les langages avec lesquels vous êtes à l'aise. Ajoutez-en au besoin.:
 Copier-coller votre objectif de carrière ici. 
 
 # Projet 1 
-Nom de votre projet: Pixar
-Mention académique ou personnel:     
+Nom de votre projet: Pixar    
 Réalisé dans le cadre du cours: Animation 3D   
 Individuel ou en équipe: Individuel
 Votre ou vos rôle(s) dans le projet: Animateur et modélisateur  
 Logiciels ou techniques utilisées: Maya, Davinci Resolve 
 Catégorie du projet: Animation 3D    
-Description courte du projet (Résumé en 1 phrase):  
+Description courte du projet (Résumé en 1 phrase): Pixar est un projet qui a pour intention de recréer et de réimaginer de manière créative la célèbre animation de Pixar
 Description du projet (Qu'est-ce que le prof vous a demandé de réaliser?) (2 phrases): Créer une imitation de l’animation de la lampe Pixar, dans la vidéo d’introduction de leurs films, en utilisant une ou des formes géométriques avec un rig simple pour imiter la lampe 
-Description de votre projet (Qu'est-ce que vous avez fait?) (2 phrases): J'ai modéliser le Bonbon principal ainsi que les lettres. J'ai aussi tout animer et rajouter la colorisation ainsi que la music. 
+Description de votre projet (Qu'est-ce que vous avez fait?) (2 phrases): J’ai modélisé le bonbon principal ainsi que les lettres. J’ai aussi tout animé, ajouté la colorisation et intégré la musique.
 Lien vers la documentation de votre projet (photos, vidéos, extraits sonores, ...):     
 
 # Projet 2 
 Nom de votre projet: Imparfaite  
-Mention académique ou personnel: Meilleur Vidéo de la classe et gagner le prix du coucour audio-visuelle 
+Mention académique ou personnel: Meilleure Vidéo de la classe et gagner le prix du coucour audio-visuelle 
 Réalisé dans le cadre du cours: Vidéo 2    
 Individuel ou en équipe: en équipe 
 Nom de vos coéquipiers: Nurlika Richard et Sarah Muller Francois
 Votre ou vos rôle(s) dans le projet: Actrice Monteuse Vidéo et Trame sonore
 Logiciels ou techniques utilisées: Davinci Resolve
 Catégorie du projet: Vidéo
-Description courte du projet (Résumé en 1 phrase):     
+Description courte du projet (Résumé en 1 phrase): Ce projet a pour but de raconter l'histoire d'une jeune fille mal a laise dans sa peau gra
 Description du projet (Qu'est-ce que le prof vous a demandé de réaliser?) (2 phrases):  Créer une vidéo sur le corps humain où l’accumulation d’images exprime un sentiment ou raconte une histoire en 1 minute 30.
 Description de votre projet (Qu'est-ce que vous avez fait?) (2 phrases): J'ai trier les médias, j'ai fait le montage, la colorisation ainsi que le son    
 Lien vers la documentation de votre projet (photos, vidéos, extraits sonores, ...):     
