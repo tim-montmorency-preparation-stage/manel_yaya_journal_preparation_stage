@@ -81,7 +81,7 @@ Nom de vos coéquipiers: Nurlika Richard et Sarah Muller Francois
 Votre ou vos rôle(s) dans le projet: Actrice Monteuse Vidéo et Trame sonore  
 Logiciels ou techniques utilisées: Davinci Resolve   
 Catégorie du projet: Vidéo     
-Description courte du projet (Résumé en 1 phrase):     
+Description courte du projet (Résumé en 1 phrase): Un monde inconnu présente un personnage inanimé qui prend vie et qui découvre le monde autour de lui 
 Description du projet (Qu'est-ce que le prof vous a demandé de réaliser?) (2 phrases): Créer une vidéo de 1 minute style stop motion et l'accompagner avec un micro-montage
 Description de votre projet (Qu'est-ce que vous avez fait?) (2 phrases):   J'ai trier les médias, j'ai fait le montage, la colorisation ainsi que le micro-montage  
 Lien vers la documentation de votre projet (photos, vidéos, extraits sonores, ...):     
