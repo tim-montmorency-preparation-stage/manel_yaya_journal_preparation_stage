@@ -99,8 +99,13 @@ Description du projet (Qu'est-ce que le prof vous a demandé de réaliser?) (2 p
 Description de votre projet (Qu'est-ce que vous avez fait?) (2 phrases): J'ai modéliser certaines choses, J'ai tout animer, j'ai fait le montage vidéo ainsi que la bande sonore    
 Lien vers la documentation de votre projet (photos, vidéos, extraits sonores, ...):     
  
-Sélectionnez un de vos projets et insérez son processus de création. À l'aide d'images et de texte vous devez nous expliquer le processus de création étape par étape de votre projet. 
+ 
 # Processus de Imparfaite : 
+# Description: 
+
+Lisa, une adolescente de 17 ans, se réfugie dans l'art du dessin pour échapper aux tourments de la réalité qui l'assaillent. Chaque jour après les cours, elle se plonge dans sa passion, laissant libre cours à son imagination débordante. Mais son processus créatif est brutalement interrompu par ses sœurs qui l'appellent pour le dîner. Pendant son absence, un objet mystérieux posé sur sa table prend vie et s'aventure dans le monde des humains. Contraint de retrouver sa place avant que Lisa ne revienne, il doit affronter la dure réalité lorsque Lisa, revient dans sa chambre.​
+
+
 # Inspiration:
 
 ### Moodboard
@@ -117,6 +122,37 @@ Dans Un Monde Inconnu, tous les décors sont vintage. La palette de couleurs tou
 ![photo](Accesoires02.jpeg)
 
 ### Horaire de tournage
+![photo](Horaire.jpeg)
+
+### Equipe de tournage
+Manel Yaya​
+
+Monteuse sonore, directrice photo, monteuse online, actrice​
+
+​
+
+Nurlika Richard​
+
+Monteuse online, preneuse de son, Monteuse sonore​
+
+​
+
+Sarah Muller François​
+
+Monteuse offline, directrice artistique​
+### Montage sonore
+
+Dans un monde inconnu, on s'inspire d'une musique jouée sur un tourne-disque pour représenter l'atmosphère vintage du stop-motion.​
+
+On entend les voix des personnages dans notre bande sonore, qui ne font pas de sens comme pour représenter un aspect enfantin. On retrouve des sons de portes qui s'ouvrent et se ferment, des pas, ainsi que d'autres bruits.​
+
+​
+
+Enfin, dans un monde inconnu, on s'inspire d'une musique jouée au ralenti sur un tourne-disque pour représenter l'atmosphère vintage du stop-motion. Cette musique au ralenti crée un effet nostalgique et mystérieux, renforçant l'ambiance particulière du film.
+
+### Photos de la realisation
+![photo](tournage.jpg)
+![photo](tournage02.jpg)
 
 
 
