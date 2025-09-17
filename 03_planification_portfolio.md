@@ -55,7 +55,7 @@ Catégorie du projet: Animation 3D
 Description courte du projet (Résumé en 1 phrase): Pixar est un projet qui a pour intention de recréer et de réimaginer de manière créative la célèbre animation de Pixar
 Description du projet (Qu'est-ce que le prof vous a demandé de réaliser?) (2 phrases): Créer une imitation de l’animation de la lampe Pixar, dans la vidéo d’introduction de leurs films, en utilisant une ou des formes géométriques avec un rig simple pour imiter la lampe 
 Description de votre projet (Qu'est-ce que vous avez fait?) (2 phrases): J’ai modélisé le bonbon principal ainsi que les lettres. J’ai aussi tout animé, ajouté la colorisation et intégré la musique.
-Lien vers la documentation de votre projet (photos, vidéos, extraits sonores, ...):     
+![photo](pixar.png)  
 
 # Projet 2 
 Nom de votre projet: Imparfaite  
@@ -69,7 +69,7 @@ Catégorie du projet: Vidéo
 Description courte du projet (Résumé en 1 phrase): Ce projet a pour but de raconter l'histoire d'une jeune fille mal à l'aise dans sa peau grâce à une lentille micro.
 Description du projet (Qu'est-ce que le prof vous a demandé de réaliser?) (2 phrases):  Créer une vidéo sur le corps humain où l’accumulation d’images exprime un sentiment ou raconte une histoire en 1 minute 30.
 Description de votre projet (Qu'est-ce que vous avez fait?) (2 phrases): J'ai trier les médias, j'ai fait le montage, la colorisation ainsi que le son    
-Lien vers la documentation de votre projet (photos, vidéos, extraits sonores, ...):     
+![photo](imparfaite.png)   
 
 
 # Projet 3 
@@ -84,7 +84,7 @@ Catégorie du projet: Vidéo
 Description courte du projet (Résumé en 1 phrase): Un monde inconnu présente un personnage inanimé qui prend vie et qui découvre le monde autour de lui 
 Description du projet (Qu'est-ce que le prof vous a demandé de réaliser?) (2 phrases): Créer une vidéo de 1 minute style stop motion et l'accompagner avec un micro-montage
 Description de votre projet (Qu'est-ce que vous avez fait?) (2 phrases):   J'ai trier les médias, j'ai fait le montage, la colorisation ainsi que le micro-montage  
-Lien vers la documentation de votre projet (photos, vidéos, extraits sonores, ...):     
+![photo](monde_inconnu.png)     
 
 # Projet 4
 Nom de votre projet: Monde a l'envers   
@@ -97,10 +97,11 @@ Catégorie du projet: Animation 3D
 Description courte du projet (Résumé en 1 phrase): Ce projet représente un monde parallèle, un monde causé par une drogue psychédélique, une distorsion de la réalité
 Description du projet (Qu'est-ce que le prof vous a demandé de réaliser?) (2 phrases): Réalisation d’un environnement 3D et de plusieurs séquences d’animation autour du même thème. 
 Description de votre projet (Qu'est-ce que vous avez fait?) (2 phrases): J'ai modéliser certaines choses, J'ai tout animer, j'ai fait le montage vidéo ainsi que la bande sonore    
-Lien vers la documentation de votre projet (photos, vidéos, extraits sonores, ...):     
+![photo](Monde.png)   
  
  
 # Processus de Imparfaite : 
+
 # Description: 
 
 Lisa, une adolescente de 17 ans, se réfugie dans l'art du dessin pour échapper aux tourments de la réalité qui l'assaillent. Chaque jour après les cours, elle se plonge dans sa passion, laissant libre cours à son imagination débordante. Mais son processus créatif est brutalement interrompu par ses sœurs qui l'appellent pour le dîner. Pendant son absence, un objet mystérieux posé sur sa table prend vie et s'aventure dans le monde des humains. Contraint de retrouver sa place avant que Lisa ne revienne, il doit affronter la dure réalité lorsque Lisa, revient dans sa chambre.​
