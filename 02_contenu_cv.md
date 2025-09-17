@@ -1,7 +1,10 @@
 # Identification
 Ton nom:     Manel Yaya
+
 Ta ville:  Laval
+
 Ton courriel: manelyaya4@gmail.com
+
 Lien vers ton portfolio:     
  
 # Objectif de carrière
