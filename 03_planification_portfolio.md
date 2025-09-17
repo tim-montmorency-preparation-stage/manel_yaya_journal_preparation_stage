@@ -113,6 +113,8 @@ Un monde inconnu se dévoile dans une atmosphère chaleureuse et empreinte de cu
 Dans Un Monde Inconnu, tous les décors sont vintage. La palette de couleurs tourne autour de différentes nuances de rouges. Au niveau des décors, on utilise un style monochrome, que ce soit avec la lumière ou la décoration.
 
 ### Accesoires:
+![photo](Accesoires01.jpeg)
+![photo](Accesoires02.jpeg)
 
 
 
