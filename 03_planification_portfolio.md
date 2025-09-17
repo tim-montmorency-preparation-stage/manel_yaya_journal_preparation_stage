@@ -1,4 +1,4 @@
-# Compétences
+ # Compétences
 Cochez les compétences que vous aimeriez utiliser en stage. Ajoutez-en au besoin.:     
 - [ ] Designer, coder et publier des sites Web dynamiques    
 - [x] Réaliser et tourner des vidéos    
