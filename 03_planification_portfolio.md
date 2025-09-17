@@ -107,14 +107,17 @@ Sélectionnez un de vos projets et insérez son processus de création. À l'aid
 ![photo](moodboard.png)
 Un monde inconnu se dévoile dans une atmosphère chaleureuse et empreinte de curiosité. Ce projet vise à illustrer la découverte et l'aventure d'un personnage qui prend vie. L'esthétique de ce monde inconnu s'inspire du style d'animation caractéristique de films tels que Coraline, Fantastic Mr. Fox, et du court métrage Gruff, mais trouve surtout son inspiration dans le stop motion "Delivered" de Vincent René Lortie.
 
-### Colorisation:
+### Colorisation
 ![photo](colorisation.png)
 
 Dans Un Monde Inconnu, tous les décors sont vintage. La palette de couleurs tourne autour de différentes nuances de rouges. Au niveau des décors, on utilise un style monochrome, que ce soit avec la lumière ou la décoration.
 
-### Accesoires:
+### Accesoires
 ![photo](Accesoires01.jpeg)
 ![photo](Accesoires02.jpeg)
+
+### Horaire de tournage
+
 
 
 
