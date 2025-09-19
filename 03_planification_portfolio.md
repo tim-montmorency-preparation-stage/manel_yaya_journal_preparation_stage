@@ -55,11 +55,13 @@ Catégorie du projet: Animation 3D
 Description courte du projet (Résumé en 1 phrase): Pixar est un projet qui a pour intention de recréer et de réimaginer de manière créative la célèbre animation de Pixar
 Description du projet (Qu'est-ce que le prof vous a demandé de réaliser?) (2 phrases): Créer une imitation de l’animation de la lampe Pixar, dans la vidéo d’introduction de leurs films, en utilisant une ou des formes géométriques avec un rig simple pour imiter la lampe 
 Description de votre projet (Qu'est-ce que vous avez fait?) (2 phrases): J’ai modélisé le bonbon principal ainsi que les lettres. J’ai aussi tout animé, ajouté la colorisation et intégré la musique.
+*Lora: Donner ici un peu plus d'explication sur ton histoire et la thématique que tu as choisie* 
 ![photo](pixar.png)  
 
 # Projet 2 
 Nom de votre projet: Imparfaite  
 Mention académique ou personnel: Meilleure Vidéo de la classe et gagner le prix du coucour audio-visuelle 
+*Lora: concours d'essais audiovisuels*
 Réalisé dans le cadre du cours: Vidéo 2    
 Individuel ou en équipe: en équipe 
 Nom de vos coéquipiers: Nurlika Richard et Sarah Muller Francois
@@ -67,8 +69,10 @@ Votre ou vos rôle(s) dans le projet: Actrice Monteuse Vidéo et Trame sonore
 Logiciels ou techniques utilisées: Davinci Resolve
 Catégorie du projet: Vidéo
 Description courte du projet (Résumé en 1 phrase): Ce projet a pour but de raconter l'histoire d'une jeune fille mal à l'aise dans sa peau grâce à une lentille micro.
+*Lora: macro je crois*
 Description du projet (Qu'est-ce que le prof vous a demandé de réaliser?) (2 phrases):  Créer une vidéo sur le corps humain où l’accumulation d’images exprime un sentiment ou raconte une histoire en 1 minute 30.
 Description de votre projet (Qu'est-ce que vous avez fait?) (2 phrases): J'ai trier les médias, j'ai fait le montage, la colorisation ainsi que le son    
+*Ici, il faut me parler plus du scénario. Quelle est l'histoire de votre projet?* 
 ![photo](imparfaite.png)   
 
 
@@ -84,6 +88,7 @@ Catégorie du projet: Vidéo
 Description courte du projet (Résumé en 1 phrase): Un monde inconnu présente un personnage inanimé qui prend vie et qui découvre le monde autour de lui 
 Description du projet (Qu'est-ce que le prof vous a demandé de réaliser?) (2 phrases): Créer une vidéo de 1 minute style stop motion et l'accompagner avec un micro-montage
 Description de votre projet (Qu'est-ce que vous avez fait?) (2 phrases):   J'ai trier les médias, j'ai fait le montage, la colorisation ainsi que le micro-montage  
+*Ici, il faut me parler plus du scénario. Quelle est l'histoire de votre projet? Parler aussi de la portion animation 2D que vous avez fait* 
 ![photo](monde_inconnu.png)     
 
 # Projet 4
@@ -97,6 +102,7 @@ Catégorie du projet: Animation 3D
 Description courte du projet (Résumé en 1 phrase): Ce projet représente un monde parallèle, un monde causé par une drogue psychédélique, une distorsion de la réalité
 Description du projet (Qu'est-ce que le prof vous a demandé de réaliser?) (2 phrases): Réalisation d’un environnement 3D et de plusieurs séquences d’animation autour du même thème. 
 Description de votre projet (Qu'est-ce que vous avez fait?) (2 phrases): J'ai modéliser certaines choses, J'ai tout animer, j'ai fait le montage vidéo ainsi que la bande sonore    
+*Ici, il faut me parler plus du scénario. Quelle est l'histoire de votre projet?* 
 ![photo](Monde.png)   
  
  
