@@ -8,7 +8,7 @@ Ton courriel: manelyaya4@gmail.com
 Lien vers ton portfolio:     
  
 # Objectif de carrière
-Copier-coller depuis ton journal de bord.
+Animée par une réelle passion pour l’image en mouvement, je cherche à occuper un poste de monteuse vidéo au sein d’une équipe créative spécialisée en film, vidéo et publicité, pour mettre en pratique mon savoir-faire en montage et animation 3D.
  
  
 # Formation
