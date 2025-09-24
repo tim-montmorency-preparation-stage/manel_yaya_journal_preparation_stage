@@ -44,8 +44,7 @@ Ville:    Montréal
 * S’assurer de faire respecter les consignes aux campeurs
  
  
-# Réalisations scolaires
-Si applicable
+
  
 ## Bourse
 Nom de la bourse reçue: Concours d'essais audiovisuels
@@ -71,7 +70,7 @@ Liste de tes loisirs ou intérêts en un mot:
 * La littérature
 * Analyse de film
 * Montage vidéos
-* 
+  
  
 # Langues
 Liste des langues que tu maîtrise:     
