@@ -1,8 +1,8 @@
 # Identification de la lettre
 
-Votre nom:     
-Votre courriel:     
-Votre ville:     
+Votre nom: Manel Yaya
+Votre courriel: manelyaya4@gmail.com
+Votre ville: Laval
 
 Nom du destinataire de la lettre:     
 Poste du destinataire de la lettre:     
